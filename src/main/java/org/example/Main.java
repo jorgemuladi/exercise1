@@ -14,5 +14,8 @@ public class Main {
         System.out.println();
 
         System.out.println("Question 3");
+        System.out.println("Question 4");
+        System.out.println("Question 5");
+
     }
 }
